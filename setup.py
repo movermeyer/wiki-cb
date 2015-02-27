@@ -80,12 +80,12 @@ except (IOError, ImportError):
     long_description = ""
 
 setup(
-    name="wiki",
-    version=VERSION,
-    author="Benjamin Bach",
-    author_email="benjamin@overtag.dk",
-    url="http://www.django-wiki.org",
-    description="A wiki system written for the Django framework.",
+    name="wiki-cb",
+    version="0.14.0.1",
+    author="Code Black",
+    author_email="codeblack@africanawiki.org",
+    url="https://github.com/audioburn/wiki-cb",
+    description="Django wiki redux, maintained by Code Black",
     license="GPLv3",
     keywords="django wiki markdown",
     packages=find_packages(exclude=["testproject", "testproject.*"]),

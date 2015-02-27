@@ -11,7 +11,7 @@ from django.template.loader import render_to_string
 try:
     import json
 except ImportError:
-    from django.utils import simplejson as json
+    import simplejson
 
 from wiki.core.exceptions import NoRootURL
 
