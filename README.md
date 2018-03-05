@@ -201,9 +201,9 @@ Badgers Badgers Badgers
 
 [![Coverage Status](https://coveralls.io/repos/django-wiki/django-wiki/badge.svg?branch=master)](https://coveralls.io/r/django-wiki/django-wiki?branch=master)
 
-[![Downloads](https://pypip.in/d/wiki/badge.png)](https://crate.io/package/wiki)
+[![Downloads](https://img.shields.io/pypi/dm/wiki.svg)](https://crate.io/package/wiki)
 
-[![Downloads](https://pypip.in/v/wiki/badge.png)](https://crate.io/package/wiki)
+[![Downloads](https://img.shields.io/pypi/v/wiki.svg)](https://crate.io/package/wiki)
 
 [![Documentation Status](https://readthedocs.org/projects/django-wiki/badge/?version=latest)](https://readthedocs.org/projects/django-wiki/?badge=latest)
 
